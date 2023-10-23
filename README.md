@@ -10,3 +10,5 @@ The data set consists of 3 csv files (ratings, listings, and calendar)
 1. Least requested area (opportunity to improve)
 2. Is there a correlation between expensive stays and good reviews?
 3. How can ratings be improved?
+
+My blog post can be read under https://medium.com/@oliver.vinzelberg/exploring-seattles-airbnb-market-a-data-science-analysis-5aae70f95714
